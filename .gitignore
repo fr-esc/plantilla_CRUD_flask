@@ -12,6 +12,9 @@ __pycache__/
 build/
 dist/
 downloads/
+*.tar
+*.tar.gz
+*.zip
 eggs/
 .eggs/
 *.egg-info/
